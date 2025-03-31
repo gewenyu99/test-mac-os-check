@@ -20,4 +20,4 @@ jobs:
           chmod +x trunk
 
       - name: lint
-        run: ./trunk check --all
+        run: ./trunk check --all --ci
