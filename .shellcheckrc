@@ -1,0 +1,4 @@
+# ShellCheck configuration file
+exclude=SC1090,SC1091
+format=checkstyle
+shell=bash 
